@@ -24,6 +24,7 @@
     <tr style="height:50px;background-color:red">
         <td style="text-align:center;width:30%;color:yellow;font-size:30px">
             <img style="vertical-align: middle;" src="../pictures/dragon-small.png" alt="Golden Dragon" height="50px">
+            <img width="64" height="64" src="{{ asset('images/dragon-large.png') }}" }}"/>
             <span style="font-family:'chinese_takeawayregular'">De Gouden Draak</span>
             <img style="vertical-align: middle;" src="../pictures/dragon-small-flipped.png" alt="Golden Dragon" height="50px">
         </td>
